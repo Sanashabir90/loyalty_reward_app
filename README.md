@@ -12,4 +12,4 @@ Ek modern, responsive, aur interactive **Loyalty Rewards Dashboard** jo customer
 **Tech Stack**
 *   **Frontend:** HTML5, Tailwind CSS
 *   **Logic:** JavaScript (State management)
-*
+
